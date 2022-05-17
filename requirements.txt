@@ -13,7 +13,7 @@ json-lines
 python-git
 PyYAML
 yml2json
-python-dateutil
+python-dateutil>2.5.2
 
 # Math / Algebra Libs
 #numpy
